@@ -1,4 +1,4 @@
-# Accounting finanse
+# Accounting finance
 ## What calculations does he make?
 ### income
 ### one day budget
